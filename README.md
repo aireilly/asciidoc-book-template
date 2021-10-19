@@ -1,0 +1,1 @@
+Example asciidoc tempalte for use with `bccutil` PDF build.

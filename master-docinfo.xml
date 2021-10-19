@@ -1,0 +1,14 @@
+<title>Sample document title</title>
+<productname>Sample Red Hat Product</productname>
+<productnumber>1.4</productnumber>
+<subtitle>For Use with Red Hat Sample Product</subtitle>
+<release></release>
+<abstract>
+    <para>
+      This is the document abstract. 
+    </para>
+</abstract>
+<authorgroup>
+    <orgname>Red Hat Customer Content Services</orgname>
+</authorgroup>
+<xi:include href="Common_Content/Legal_Notice.xml" xmlns:xi="http://www.w3.org/2001/XInclude" />

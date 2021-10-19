@@ -1,0 +1,10 @@
+[id="template-book-id"]
+= Sample document title
+
+:context: sample-document-context
+:imagesdir: images
+:product-version: 3
+
+toc::[]
+
+include::modules/example-topic.adoc[leveloffset=+1]
